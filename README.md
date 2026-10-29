@@ -58,7 +58,5 @@
 ![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals_(AZ--900)-0078D4?style=flat&logo=microsoftazure&logoColor=white)                 
                                                                                                                                                                                                             
    
-  ---                                                                                                                             
-
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedidriss&margin-w=8&no-frame=true" alt="Trophies" /></a></p>        
+  
    
