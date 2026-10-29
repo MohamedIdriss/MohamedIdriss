@@ -57,19 +57,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure_Fundamentals_(AZ--900)-0078D4?style=flat&logo=microsoftazure&logoColor=white)                 
                                                                                                                                                                                                             
-  ---                                                                                                                             
-                                                                                                                                                                                                            
-  ### GitHub Stats                                                                                                                                                                                          
    
-  <table>                                                                                                                                                                                                   
-    <tr>                                                                                                                          
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mohamedidriss&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" /></td>                         
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedidriss&layout=compact&hide_border=true&count_private=true" alt="Top Languages" /></td>
-    </tr>                                                                                                                                                                                                   
-  </table>                                                                                                                        
-                                                                                                                                                                                                            
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedidriss&hide_border=true" alt="GitHub Streak" /></p>  
-                                                                                                                                                                                                            
   ---                                                                                                                             
 
   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedidriss&margin-w=8&no-frame=true" alt="Trophies" /></a></p>        
